@@ -1,2 +1,0 @@
-# DD
-Linux reinstall useage
