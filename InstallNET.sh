@@ -3647,7 +3647,7 @@ if [[ "$ddMode" == '1' ]]; then
 			if [[ "$tmpFinalDIST" == "2012" ]]; then
 				tmpURL="$tmpURL/"${tmpTargetLang}"_win"${tmpFinalDIST}"r2.xz"
 				showFinalDIST="Server $tmpFinalDIST R2"
-			elif [[ "$tmpFinalDIST" -ge "2016" && "$tmpFinalDIST" -le "2022" ]]; then
+			elif [[ "$tmpFinalDIST" -ge "2016" && "$tmpFinalDIST" -le "2025" ]]; then
 				tmpURL="$tmpURL/"${tmpTargetLang}"_win"${tmpFinalDIST}".xz"
 				showFinalDIST="Server $tmpFinalDIST"
 			elif [[ "$tmpFinalDIST" -ge "10" && "$tmpFinalDIST" -le "11" ]]; then
