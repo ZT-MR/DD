@@ -2,15 +2,7 @@
 Something about scripts
 # Linux reinstall useage
 
-![3](3.png)
 
-![1](1.jpg)
-
-![2](2.png)
-
-![4](4.jpg)
-
-![5](5.png)
 
 ## If you are not a root user, try to execute the following commands to switch to get root user permission:
 <pre><code>sudo -s</code></pre>
